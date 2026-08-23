@@ -1,0 +1,14 @@
+[
+  {"name": "Push-ups", "muscle_group": "Chest", "equipment": "None", "difficulty": "Beginner"},
+  {"name": "Bodyweight Squats", "muscle_group": "Legs", "equipment": "None", "difficulty": "Beginner"},
+  {"name": "Plank", "muscle_group": "Core", "equipment": "None", "difficulty": "Beginner"},
+  {"name": "Pull-ups", "muscle_group": "Back", "equipment": "Pull-up Bar", "difficulty": "Intermediate"},
+  {"name": "Dumbbell Rows", "muscle_group": "Back", "equipment": "Dumbbells", "difficulty": "Beginner"},
+  {"name": "Lunges", "muscle_group": "Legs", "equipment": "None", "difficulty": "Beginner"},
+  {"name": "Burpees", "muscle_group": "Full Body", "equipment": "None", "difficulty": "Intermediate"},
+  {"name": "Dumbbell Shoulder Press", "muscle_group": "Shoulders", "equipment": "Dumbbells", "difficulty": "Intermediate"},
+  {"name": "Jumping Jacks", "muscle_group": "Cardio", "equipment": "None", "difficulty": "Beginner"},
+  {"name": "Deadlifts", "muscle_group": "Back/Legs", "equipment": "Barbell", "difficulty": "Advanced"},
+  {"name": "Bicep Curls", "muscle_group": "Arms", "equipment": "Dumbbells", "difficulty": "Beginner"},
+  {"name": "Mountain Climbers", "muscle_group": "Core/Cardio", "equipment": "None", "difficulty": "Beginner"}
+]
